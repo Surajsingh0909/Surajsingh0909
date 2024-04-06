@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suraj Singh</h1>
 <h3 align="center">A passionate software developer</h3>
-
 - 💬 Ask me about **Java, Python and SQL**
 
-- 📫 How to reach me **singhsuraj9 82017@gmail.com**
+- 📫 How to reach me **singhsuraj982017@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
